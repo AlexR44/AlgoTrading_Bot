@@ -3,10 +3,10 @@
 ## Summary
 The Jupyter notebook included performs the following:
 
-* Implementing a simple algorithmic trading strategy that uses machine learning to automate trade decisions.
-* Tuning of the input parameters to optimize the trading algorithm.
-* Training a new machine learning model (Logistic Regression Classifier) 
-* Comparing the models' performance to that of a baseline stratefy model.
+* Implements a simple algorithmic trading strategy that uses machine learning to automate trade decisions.
+* Adjusts the input parameters to optimize the trading algorithm.
+* Trains a new machine learning model (Logistic Regression Classifier) 
+* Compares the models' performance to that of a baseline stratefy model.
 
 ## Results
 ### Baseline Strategy
